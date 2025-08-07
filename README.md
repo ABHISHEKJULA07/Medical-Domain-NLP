@@ -88,7 +88,7 @@ This system demonstrates an effective application of NLP and machine learning to
 
 1. **Clone the Repository**
    ```bash
-   git clone [(https://github.com/ABHISHEKJULA07/Medical-domain-identification-NLP)]
+   git clone https://github.com/ABHISHEKJULA07/Medical-domain-identification-NLP
 2. **Install the Required Packages**
    ```bash
    pip install -r requirements.txt
