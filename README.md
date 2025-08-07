@@ -60,7 +60,17 @@ This project focuses on classifying patient prescriptions and clinical notes int
                                                         +-------------------------+
 
 
- ```
+---
+```
+This diagram:
+- Starts from the left with raw input
+- Flows to the right for early steps
+- Then continues vertically for the ML stages
+- Fits cleanly into GitHub-flavored Markdown
+
+Would you like a stylized image version or Mermaid.js diagram next?
+
+ 
 ## 📊 Output
 
 - ✅ Cleaned and vectorized text data
