@@ -99,8 +99,6 @@ This system demonstrates an effective application of NLP and machine learning to
    ```bash
    model.ipynb
 
-   ```bash
-
 ## 👨‍💻 Developed By
 **Abhishek Jula**, Dhruv Uniyal, Tarun Sri Sai Vadlapatla, John Nikhil Bonam, Ms. A. Madhavi  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
