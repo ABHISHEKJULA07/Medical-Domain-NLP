@@ -84,4 +84,18 @@ Would you like a stylized image version or Mermaid.js diagram next?
 
 This system demonstrates an effective application of NLP and machine learning to the healthcare domain. It successfully classifies medical documents based on their textual content into appropriate specialties, enabling better automation in clinical workflows. With more data and advanced models (like BERT), the system can be expanded for production-level use in hospitals and telemedicine platforms.
 
+##  How to Run the Project
 
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/ABHISHEKJULA07/RealEstate-Predictor-using-ML-EDA
+   cd RealEstate-Predictor-using-ML-EDA
+2. **Install the Required Packages**
+   ```bash
+   pip install -r requirements.txt
+3. **Run the Notebook**
+   ```bash
+   jupyter notebook.
+4. **Open and run**
+   ```bash
+   RealEstate_Predictor_EDA.ipynb
