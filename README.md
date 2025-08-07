@@ -32,7 +32,6 @@ This project focuses on classifying patient prescriptions and clinical notes int
 
 ---
 
-## 🧱 System Architecture
 ## 🧠 Model Pipeline
 
 ```plaintext
