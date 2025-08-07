@@ -99,7 +99,7 @@ This system demonstrates an effective application of NLP and machine learning to
    ```bash
    model.ipynb
 
-## 📌 Developed By
+## 👨‍💻 Developed By
 
 **Abhishek Jula** 
 
@@ -107,3 +107,4 @@ This system demonstrates an effective application of NLP and machine learning to
 💻 [GitHub](https://github.com/ABHISHEKJULA07)  
 🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
 📧 abhishekjula018@gmail.com
+
