@@ -97,4 +97,4 @@ This system demonstrates an effective application of NLP and machine learning to
    jupyter notebook.
 4. **Open and run**
    ```bash
-   Model.ipynb
+   model.ipynb
